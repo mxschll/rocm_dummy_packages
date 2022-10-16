@@ -1,6 +1,8 @@
 # rocm_dummy_packages
 Dummy packages to resolve some dependencies to assist in installation of ROCM
 
+See https://github.com/RadeonOpenCompute/ROCm/issues/1713#issuecomment-1256420167
+
 ## ROCm fails to install due to dependency issues for **rocm-llvm**
 
 Just download and install these dummy packages. They don't contain any binaries, just tells apt that you have the packages installed that it requires
